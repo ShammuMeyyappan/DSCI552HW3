@@ -1,0 +1,9 @@
+pandas
+seaborn
+statsmodels.formula.api
+matplotlib.pyplot
+sklearn.model_selection
+itertools
+numpy
+sklearn.neighbors
+sklearn.metrics
